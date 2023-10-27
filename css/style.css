@@ -38,3 +38,11 @@
 .p3{
     padding:50px;
 }
+.img1{
+    background-image: url(/icons/bg-masthead.jpg);
+    height: 500px;
+}
+.img2{
+    background-image: url(/icons/header-bg.jpg);
+    height: 500px;
+}
