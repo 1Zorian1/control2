@@ -1,0 +1,22 @@
+.font1{
+    text-align: center;
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 160%;
+}
+.font2{
+    text-align: center;
+    color: rgb(49, 45, 45);
+}
+.p{
+    width: 400px;
+    text-align: center;
+}
+.blick{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.p2{
+    text-align: center;
+}
