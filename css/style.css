@@ -60,3 +60,12 @@
 .border{
     padding: 10px;
 }
+.asidebackground{
+    background-image: url(/icons/Знімок\ екрана\ 2023-10-27\ 150421.png);
+padding-top: 0px;
+background-repeat: no-repeat;
+height: 500px;
+
+
+
+}
