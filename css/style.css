@@ -46,3 +46,8 @@
     background-image: url(/icons/header-bg.jpg);
     height: 500px;
 }
+.menu{
+    justify-content: space-around;
+    padding-top: 50px;
+    font-family: a;
+}
