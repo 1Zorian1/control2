@@ -19,4 +19,22 @@
 }
 .p2{
     text-align: center;
+   
+    
+}
+.aside{
+    background-color: rgb(236, 211, 211);
+    font-size: 150%;
+    font-weight:300 ;
+    text-align: start;
+    font-family: Agbalumo;
+   
+}
+.font3{
+    padding-right: 250px;
+    padding-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p3{
+    padding:50px;
 }
