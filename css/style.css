@@ -61,11 +61,33 @@
     padding: 10px;
 }
 .asidebackground{
-    background-image: url(/icons/Знімок\ екрана\ 2023-10-27\ 150421.png);
-padding-top: 0px;
+    background-image: url(/icons/Знімок\ екрана\ 2023-10-27\ 151542.png);
+padding-top: 50px;
 background-repeat: no-repeat;
 height: 500px;
 
 
 
+}
+.font4{
+    color: rgb(211, 242, 245);
+    padding-right: 100px;
+    padding-top: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.asideimg1{
+    height: 620px;
+    width: 600px;
+}
+.asideimg4{
+    width: 320px;
+    padding-top: 30px;
+
+
+}
+
+.asideimg3{
+  width: 320px;
+  padding-top: 30px;
 }
